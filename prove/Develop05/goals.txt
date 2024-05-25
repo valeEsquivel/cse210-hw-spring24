@@ -1,0 +1,6 @@
+30
+SimpleGoal:Give a home night evening,Prepare a home night evening for my family,30,True
+EternalGoal:Pay Tithing,Pay the 10% of my salary,40
+SimpleGoal:Buy garments,Buy new garments for me and my parents,40,False
+ChecklistGoal:Assist to institute,Assist to the institute class of my ward,30,4,400,0
+EternalGoal:Study the scriptures,Study 10 min a day the scriptures,20
